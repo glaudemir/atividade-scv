@@ -2,8 +2,8 @@
 
 <table>
  <tr>
-  <th>Nome</th>
-  <th>Cidade natal</th>
+  <th>Glaudemir</th>
+  <th>Garanhuns</th>
  </tr>
   <tr>
     <td>Rodrigo</td>
