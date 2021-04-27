@@ -10,8 +10,8 @@
     <td>Maceio</td>
   </tr>
  <tr>
-  <th>Glaudemir</th>
-  <th>Garanhuns</th>
+  <td>Glaudemir</td>
+  <td>Garanhuns</td>
  </tr>
 
 </table>
